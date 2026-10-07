@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976296314494",
+    "project_id": "workshop6-148-e9027",
+    "storage_bucket": "workshop6-148-e9027.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976296314494:android:eacc8c1509ea850a9eba2f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqYNm_pB2NirqLwiRL-nrMBg1uYlEOmUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
